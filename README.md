@@ -5,3 +5,7 @@ demo link for profile page - https://github.com/vickyjuxtin/Front-End-Web-Develo
 
 
 demo link for flex box layout - https://github.com/vickyjuxtin/Front-End-Web-Development-Projects/blob/main/Demonstrating-My-Custom-Flexbox-Layout-with-HTML-and-CSS.pdf.pdf
+
+
+demo link for Registration Form - https://github.com/vickyjuxtin/Front-End-Web-Development-Projects/blob/main/Creating-a-Registration-Form-Using-HTML-and-CSS.pdf
+
