@@ -12,3 +12,6 @@ demo link for Registration Form - https://github.com/vickyjuxtin/Front-End-Web-D
 
 demo link for college notice board - https://github.com/vickyjuxtin/Front-End-Web-Development-Projects/blob/main/College-Notice-Board-Project.pdf.pdf
 
+
+demo link for login and landing page - https://github.com/vickyjuxtin/Front-End-Web-Development-Projects/blob/main/HTML-and-CSS-Project-Login-Page-and-Landing-Page.pdf.pdf
+
