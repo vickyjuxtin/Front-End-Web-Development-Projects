@@ -9,3 +9,6 @@ demo link for flex box layout - https://github.com/vickyjuxtin/Front-End-Web-Dev
 
 demo link for Registration Form - https://github.com/vickyjuxtin/Front-End-Web-Development-Projects/blob/main/Creating-a-Registration-Form-Using-HTML-and-CSS.pdf
 
+
+demo link for college notice board - https://github.com/vickyjuxtin/Front-End-Web-Development-Projects/blob/main/College-Notice-Board-Project.pdf.pdf
+
